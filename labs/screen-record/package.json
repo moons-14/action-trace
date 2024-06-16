@@ -1,5 +1,5 @@
 {
-  "name": "action-trace",
+  "name": "screen-record",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,10 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@biomejs/biome": "1.8.1"
-  },
   "dependencies": {
-    "tsx": "^4.15.5"
+    "aperture": "^7.0.0"
   }
 }
